@@ -1,0 +1,5 @@
+benchmark_id,benchmark_name,benchmark_symbol,benchmark_type,description,inception_date
+1,S&P 500 Index,SPX,Equity,Large Cap US Equities market-cap weighted benchmark,1957-03-04
+2,Nasdaq 100 Index,NDX,Equity,Top 100 non-financial tech and growth US securities,1985-01-31
+3,MSCI ACWI Index,MSCI_ACWI,Global Equity,Global developed and emerging markets equity benchmark,1988-05-31
+4,Bloomberg US Aggregate Bond Index,AGG,Fixed Income,Investment grade US bond market benchmark,1986-12-31

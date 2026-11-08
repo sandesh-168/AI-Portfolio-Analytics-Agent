@@ -1,0 +1,9 @@
+portfolio_id,portfolio_name,creation_date,target_risk_level,total_aum,strategy_type,benchmark_index,status
+1,Growth Equity Fund,2021-01-15,High,125000000.0,Active Equity Growth,S&P 500 Index,Active
+2,Tech Innovation Fund,2021-04-01,High,85000000.0,Thematic Technology,Nasdaq 100 Index,Active
+3,International Equity Fund,2021-06-10,Moderate,95000000.0,Global Core Equity,MSCI ACWI Index,Active
+4,Global Diversified Fund,2020-09-01,Moderate,140000000.0,Multi-Asset Global,MSCI ACWI Index,Active
+5,Balanced Allocation Fund,2019-11-15,Moderate,75000000.0,60/40 Asset Allocation,S&P 500 Index,Active
+6,High Yield Income Fund,2022-02-20,Low,50000000.0,Fixed Income & Dividends,Bloomberg US Aggregate Bond Index,Active
+7,Dynamic Alpha Fund,2023-01-10,High,60000000.0,Long/Short Opportunistic,S&P 500 Index,Active
+8,Legacy Wealth Preservation Fund,2018-05-01,Low,30000000.0,Capital Preservation,Bloomberg US Aggregate Bond Index,Closed

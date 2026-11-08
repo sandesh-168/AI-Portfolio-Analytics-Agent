@@ -1,0 +1,10 @@
+sector_id,sector_name,sector_description,industry_group
+1,Technology,"Software, semiconductors, hardware and IT services",Information Technology
+2,Healthcare,"Pharmaceuticals, biotechnology, healthcare equipment and managed care",Healthcare
+3,Financial Services,"Diversified banks, asset management, investment banking and insurance",Financials
+4,Consumer Cyclical,"Retail, automotive, apparel, leisure and luxury goods",Consumer Discretionary
+5,Industrials,"Aerospace, defense, machinery, transportation and industrial conglomerates",Industrials
+6,Energy,"Oil & gas exploration, refining, midstream and renewable energy",Energy
+7,Communication Services,"Telecommunications, interactive media, entertainment and publishers",Communications
+8,Utilities,"Electric, water, gas utilities and independent power producers",Utilities
+9,Fixed Income,"Sovereign, corporate, and municipal debt instruments",Fixed Income

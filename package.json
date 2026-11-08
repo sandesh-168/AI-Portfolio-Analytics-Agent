@@ -1,0 +1,13 @@
+{
+  "name": "ai-portfolio-analytics-agent",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Institutional AI Portfolio Analytics Agent with RACSE Engine",
+  "scripts": {
+    "agent:cli": "python_env\\python.exe cli.py -i",
+    "agent:eval": "python_env\\python.exe agent_evaluator.py",
+    "agent:ui": "python_env\\python.exe -m streamlit run streamlit_app.py",
+    "agent:api": "python_env\\python.exe -m uvicorn api:app --reload --port 8000",
+    "test": "python_env\\python.exe -m unittest tests/test_portfolio_agent.py"
+  }
+}
